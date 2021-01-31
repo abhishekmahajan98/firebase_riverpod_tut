@@ -1,0 +1,6 @@
+package com.abhishekmahajan.firebaseriverpodtut
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
